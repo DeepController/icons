@@ -1,0 +1,24 @@
+1Keyboard
+Alfred
+android-studio
+BaiduNetdisk
+Beyond Compare
+charles-proxy
+CleanMyMac3
+CodeRunner
+Cornerstone
+Emacs
+Chrome
+IntelliJ Idea
+IINA
+iTerm
+lantern
+MacVim
+MPlayerX
+OmniGraffle
+ParallelsDesktop
+QuartzCode
+SourceTree
+Tower
+WebStorm
+youkumac
